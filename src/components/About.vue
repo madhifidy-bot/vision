@@ -192,7 +192,7 @@ p {
 
 /* Hero Section */
 .hero {
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/src/assets/images/hero-bg.jpg');
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("C:\Users\ooo\OneDrive\Pictures\download.jpg");
   background-size: cover;
   background-position: center;
   height: 70vh;
